@@ -727,7 +727,7 @@ a {
 ```
 
 ## OUTPUT:
-(FIGMA.png)
+![alt text](FIGMA.png)
 
 
 ## RESULT:
