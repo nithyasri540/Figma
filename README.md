@@ -724,9 +724,10 @@ a {
   height: 267px;
   object-fit: cover;
 }
-
+```
 
 ## OUTPUT:
+(FIGMA.png)
 
 
 ## RESULT:
